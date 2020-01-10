@@ -1,0 +1,3 @@
+<FilesMatch "\.git">
+    Deny from all
+</FilesMatch>
