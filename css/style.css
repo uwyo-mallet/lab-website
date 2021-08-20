@@ -108,3 +108,7 @@ p.collapse{
 p {
     margin-bottom:0;
 }
+
+ul {
+    text-align: left;
+}
