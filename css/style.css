@@ -112,3 +112,9 @@ p {
 ul {
     text-align: left;
 }
+
+.disable-link{
+    pointer-events: none;        
+    text-decoration: none;
+    color: black;
+}
